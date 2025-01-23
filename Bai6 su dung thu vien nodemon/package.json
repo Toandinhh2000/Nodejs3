@@ -1,8 +1,9 @@
 {
-  "name": "nodejs3",
+  "name": "bai6-su-dung-thu-vien-nodemon",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon --inspect index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -10,8 +11,8 @@
     "url": "git+https://github.com/Toandinhh2000/Nodejs3.git"
   },
   "keywords": [
-    "toan",
     "xuan",
+    "toan",
     "dinh",
     "nodejs"
   ],
@@ -21,9 +22,8 @@
     "url": "https://github.com/Toandinhh2000/Nodejs3/issues"
   },
   "homepage": "https://github.com/Toandinhh2000/Nodejs3#readme",
-  "dependencies": {
-    "express": "^4.21.2"
-  },
-  "devDependencies": {},
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
