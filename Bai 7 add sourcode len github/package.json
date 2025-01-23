@@ -1,0 +1,28 @@
+{
+  "name": "bai-7-add-sourcode-len-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toandinhh2000/Nodejs3.git"
+  },
+  "keywords": [
+    "xuan",
+    "toan",
+    "dinh",
+    "nodejs"
+  ],
+  "author": "toandx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toandinhh2000/Nodejs3/issues"
+  },
+  "homepage": "https://github.com/Toandinhh2000/Nodejs3#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
